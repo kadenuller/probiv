@@ -4,7 +4,7 @@ description: Боты и сервисы для деанона — пробива
 
 # Топ ботов для пробива информации в телеграм
 
-<figure><img src="https://miro.medium.com/v2/resize:fit:700/1*yeZvSXQSEDRs7TWks8OOtw.jpeg" alt="" height="467" width="700"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/botiprobiva.webp" alt=""><figcaption></figcaption></figure>
 
 **Внимание! Перед тем как читать дальше, ознакомьтесь с этой информацией 👇**
 
