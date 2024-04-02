@@ -54,7 +54,7 @@ description: Боты и сервисы для деанона — пробива
 
 ## Информация по номерам телефонов: <a href="#id-454a" id="id-454a"></a>
 
-[Real GetContact](https://t.me/allcontacts\_real\_bot) — GetContact настоящий с бесплатными поисками.
+[Real GetContact](https://t.me/takecontacts\_real\_bot) — GetContact настоящий с бесплатными поисками.
 
 [DataLeaksBot](https://t.me/data1eaks\_robot) — проведет проверку на утечки, номера телефона или адреса электронной почты. Введенные вами данные останутся в безопасности. Бот полностью бесплатный.
 
