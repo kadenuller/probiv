@@ -100,7 +100,7 @@ description: Боты и сервисы для деанона — пробива
 
 [Surftg\_bot](https://t.me/surftg\_bot) — поиск сообщений в Телеграм.
 
-[Searchforchats](https://bit.ly/4bX2Ei5) — ищет информации в огромном количесте активных чатов в Telegram по выбранным ключевым словам!
+[Searchforchats](https://bit.ly/4bX2Ei5) — ищет информации в огромном количестве активных чатов в Telegram по выбранным ключевым словам!
 
 [MotherSearchBot](https://t.me/MotherSearchBot) — аналог Google, но для Telegram. Поможет найти нужный канал, текст, аудио или документ.
 
