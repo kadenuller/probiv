@@ -128,6 +128,8 @@ description: Боты и сервисы для деанона — пробива
 
 ## Поиск информации по другим соц-сетям: <a href="#a408" id="a408"></a>
 
+[Discord Sensor](https://bit.ly/3AeaNBp) — можно быстро получить информацию о Дискорд аккаунтах, такую как как аватары, серверы, друзья и никнеймы.
+
 [InstaBot ](https://bit.ly/3iQPi0U)— скачивает любые медиафайлы из Instagram.
 
 [SaveYoutubeBot](https://t.me/SaveYoutubeBot) — ищет и скачивает ролики из YouTube.
